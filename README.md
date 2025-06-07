@@ -1,6 +1,35 @@
-# 💫 About Me:
-🎓 IT Undergrad at DBIT, Mumbai University (3rd Year)<br><br>🌐 Exploring Full-Stack Web, 🤖 AI/ML, 📱 Android, and 🎮 Game Development<br><br>🛠️ Tech Stack:<br>    • Python 🐍 | Java ☕ | React ⚛️ | Flutter 💙<br>    • Unity 🎮 | SQL 🗃️ | C / C# 🔧 | JS, HTML, CSS 🌐 | Canva 🎨<br><br>💼 Projects:<br>    • Java – Healthcare Management System 🏥<br>    • Python – Website Vulnerability Scanner 🔍<br>    • Unity – LapXtreme (2D Racing Game) 🏎️ – 🏆 People’s Choice Winner<br><br>🏅 Achievements:<br>    • Best Design – Canva Workshop<br>    • Participated in workshops at IIT Bombay (Flutter, MERN, Product Design)<br><br>💡 Fast learner | 🤝 Team player | 🧠 Problem solver<br><br>🇮🇳 Aspires to contribute to tech that impacts society and the nation
+# 💫 Hello World!
 
+🎓 **IT Undergrad** at DBIT, Mumbai University (3rd Year)  
+🌐 Passionate about **Full-Stack Web**, 🤖 **AI/ML**, 📱 **Android**, and 🎮 **Game Development**
+
+---
+
+### 💼 Projects
+- 🍵 **Java** – *Healthcare Management System* 🏥  
+- 🐍 **Python** – *Website Vulnerability Scanner* 🔍  
+- 🎮 **Unity** – *LapXtreme* (2D Racing Game) 🏎️ – 🏆 *People’s Choice Winner*  
+- ⚒️ **Ongoing** – Exploring new ideas in **web, AI, and game dev**
+
+---
+
+### 🏅 Achievements
+- 🏆 *People’s Choice Award* – **LapXtreme (Unity Game)**  
+- 🎨 *Best Design* – **Canva Workshop**  
+- 🎓 Participated in workshops on **Flutter**, **MERN Stack**, **AI/ML & Blockchain**, and **Design Thinking @ DSSE – IIT Bombay**
+
+---
+
+### 💡 Skills & Traits
+- 🧠 Problem Solver  
+- 🤝 Team Player  
+- ⚡ Fast Learner  
+
+---
+
+🌎 **Driven to create tech that serves people, society, and the nation.**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranit-chiman-223899331/) 
