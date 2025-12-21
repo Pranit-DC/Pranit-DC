@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Banner" />
+  <img src="assets/banner.gif" alt="Banner" />
 </p>
-
-# 💫 Hello World!
 
 🎓 **IT Undergrad** at DBIT, Mumbai University (3rd Year)  
 🌐 Aspiring **Software Engineer**
@@ -70,8 +68,8 @@ class About extends Me {
   <h3>The Code Cycle</h3>
   <br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="45" title="Broken system!"/>
-  &nbsp;&nbsp;➜&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="45" title="It's working!"/>
-  &nbsp;&nbsp;➜&nbsp;&nbsp;
+  &nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="45" title="It's working but IDK how!"/>
 </div>
