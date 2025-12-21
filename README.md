@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url-here" alt="Banner" />
+</p>
+
 # 💫 Hello World!
 
 🎓 **IT Undergrad** at DBIT, Mumbai University (3rd Year)  
@@ -13,12 +17,13 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : {"C", "C#", "Java", "Python", "JavaScript", "TypeScript"},
+    "FrameworksAndLibraries" : {"React", "Next.js", "Django", "Node.js", "Tailwind CSS", "Unity"},
+    "DatabasesAndORMs" : {"PostgreSQL", "SQLite", "MongoDB", "Prisma"},
+    "CloudAndDevOps" : {"AWS", "Google Cloud", "Vercel", "Docker", "Jenkins"}
+    "EditorsAndIDEs" : {"VS Code"},
+    "Platforms" : { "Linux", "Windows"},
+    "OtherTools" : { "Git", "GitHub", "Figma", "LaTeX"},
   };
 }
 ```
