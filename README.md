@@ -2,10 +2,15 @@
   <img src="assets/banner.gif" alt="Banner" />
 </p>
 
-🎓 **IT Undergrad** at DBIT, Mumbai University (3rd Year)  
-🌐 Aspiring **Software Engineer**
+<div align="center">
+  <img src="assets/edu.webp" width="20" align="center" /> 
+  <strong>IT Undergrad</strong> at DBIT, Mumbai University
+</div>
 
----
+<div align="center">
+  <img src="assets/code.gif" width="20" align="center" /> 
+  Aspiring <strong>Software Engineer</strong>
+</div>
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,js,ts,nodejs,html,css,react,nextjs,tailwind,django,sqlite,postgres,prisma,mongodb,gcp,aws,vercel,docker,jenkins,git,github,vscode,figma,unity,latex&perline=14)](https://skillicons.dev)
@@ -27,10 +32,24 @@ class About extends Me {
 ```
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+<div align="left">
+  <a href="https://www.linkedin.com/in/pranit-chiman">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  &nbsp;
+  <a href="mailto:pranitchiman@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
+
+## 📊 GitHub Analytics
 <!-- <h3 align="center">📊 GitHub Analytics</h3> -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; GitHub Analytics <br>
+<!-- <h3>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="25" />
+  GitHub Analytics
+</h3> <br> -->
+
 <div align="center">
   <table align="center">
     <tr>
