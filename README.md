@@ -60,10 +60,10 @@ class About extends Me {
   <table align="center">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-git-master-pranit-dcs-projects.vercel.app/api?username=Pranit-DC&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-gamma-five-10.vercel.app/api?username=Pranit-DC&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-         <img src="https://github-readme-stats-git-master-pranit-dcs-projects.vercel.app/api/top-langs/?username=Pranit-DC&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
+         <img src="https://github-readme-stats-gamma-five-10.vercel.app/api/top-langs/?username=Pranit-DC&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
