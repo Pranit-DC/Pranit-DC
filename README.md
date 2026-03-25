@@ -12,12 +12,12 @@
 
 ---
 
-## About Me
-3rd-year IT engineering student at DBIT Mumbai specializing in full-stack development and backend architecture. Passionate about engineering scalable, event-driven web applications and secure APIs. Focused on clean system design, reliability, and real-world deployments using Next.js, TypeScript, and modern cloud infrastructure.
+ ## About Me
+3rd-year IT engineering student at DBIT Mumbai specializing in full-stack development and backend architecture. Passionate about engineering scalable, event-driven web applications and secure APIs. Focused on clean system design, reliability, and real-world deployments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <table style="border-collapse: collapse; border-style: hidden; width: 100%;">
@@ -125,7 +125,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [NearServe](https://github.com/Pranit-DC/nearserve) — Local Services Marketplace · [Live ↗](https://nearserve.vercel.app)
 `Next.js 15` `TypeScript` `Firebase` `Firestore` `Razorpay` `Gemini AI` `Cloudinary`
@@ -162,7 +162,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **UI Design Intern** · TS Academy · *Jul – Aug 2025*
 - Designed mobile app interfaces and high-fidelity Figma prototypes from defined user flows
@@ -172,14 +172,14 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🎮 **People's Choice Award** — LapXtreme · Don Bosco Techfest (Teknack) 2025
 - 🎨 **Best Design** — Canva Workshop · DBIT 2025
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranit-DC&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=e8956d&text_color=ffffff&icon_color=e8956d" height="165" alt="GitHub Stats" />
@@ -191,14 +191,27 @@
   <img src="https://streak-stats.demolab.com?user=Pranit-DC&hide_border=true&background=00000000&ring=e8956d&fire=e8956d&currStreakLabel=e8956d&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" height="150" alt="Streak Stats" />
 </div>
 
+<!-- <div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranit-DC&bg_color=00000000&color=e8956d&line=e8956d&point=ffffff&area=true&area_color=e8956d&hide_border=true" alt="Activity Graph" width="90%" />
+</div> -->
+
 ---
  
-## 🌐 Connect
+## Connect
  
 <div align="left">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranit-chiman)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitchiman@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/pranit-chiman">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pranitchiman@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+</div>
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranit-DC)-->
+
+<!--[![An image of @pranit_chiman_07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranit_chiman_07)](https://holopin.io/@pranit_chiman_07)-->
  
 </div>
