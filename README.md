@@ -8,6 +8,7 @@
   📍 Mumbai &nbsp;|&nbsp;
   <a href="mailto:pranitchiman@gmail.com">pranitchiman@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/pranit-chiman">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://pranitchiman.tech">Portfolio ↗</a>
 </p>
 
 ---
